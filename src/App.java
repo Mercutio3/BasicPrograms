@@ -4,6 +4,7 @@ public class App {
         runFibonacci();
     }
 
+    //Fibonacci Sequence
     public static void runFibonacci(){
         Fibonacci fibby = new Fibonacci(FIBONACCI_LENGTH);
         fibby.printSequence();
