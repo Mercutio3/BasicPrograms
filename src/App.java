@@ -2,11 +2,13 @@ public class App {
     final static int FIBONACCI_LENGTH = 13;
     final static int NUMBER_TEST = 6;
     public static void main(String[] args) {
+        System.out.println();
         runFibonacci();
         testPrime();
         testPalindrome();
         findFactorial();
         testArmstrong();
+        System.out.println();
     }
 
     //Fibonacci Sequence
