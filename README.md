@@ -1,17 +1,14 @@
-## Getting Started
+## Hello!
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This project consists of several basic programs to help me practice Java.
 
-## Folder Structure
+## Classes
 
-The workspace contains two folders by default, where:
+You can find several classes, all ran from the "App" class's main method:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- `Fibonacci`: Outputs a fibonacci sequence of set length.
+- `PrimeNumber`: Tests if a number is prime or not.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
 ## Dependency Management
 
